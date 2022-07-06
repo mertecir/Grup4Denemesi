@@ -5,6 +5,6 @@ public class _06_Temmuz {
 
         System.out.println("Grup 4 e Selamlar");
 
-        System.out.println("samet");
+
     }
 }
